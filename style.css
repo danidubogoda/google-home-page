@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif; 
+}
+
+.icons {
+    height: 20px;
+    width: 20px;
+    position: relative;
+    text-align: right;
+    margin-left: 20px;
+}
+
+#search-area {
+    text-decoration: none;
+    border: none;
+}
+
+#Sp-1{
+    margin-left: 35px;
+}
+
+#empty-body>h6{
+   margin-top: 100px;
+   color: red;
+}
